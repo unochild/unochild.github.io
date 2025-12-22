@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: default
 ---
+
+# Code
 
 ## What I do
 Principal Software Engineer working on large-scale systems.
