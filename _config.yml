@@ -1,8 +1,9 @@
 title: Chris Parkinson
-description: Code / Run / Play
+description: Code / Move / Play
 theme: minima
 
 header_pages:
   - index.md
   - code.md
-
+  - move.md
+  - play.md
