@@ -1,4 +1,7 @@
-# Chris
+---
+layout: home
+---
+
 Code / Run / Play
 
 Software engineering, endurance sport, and music.
