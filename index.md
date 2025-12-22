@@ -1,11 +1,12 @@
 ---
 layout: default
+title: Home
 ---
 
-# Chris Parkinson
-Code / Move / Play
+# Code / Move / Play
+Personal website of Chris Parkinson. 
 
-Software engineering, endurance sport, and music.
+Covering software engineering, endurance sport, and music.
 
 - [Code →](/code/) — building and running production systems  
 - [Move →](/move/)   — running, cycling, and multi-sport training  
