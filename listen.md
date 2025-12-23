@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Play
+title: Listen
 ---
 
-# Play
+# Listen
 
 ## Making
 Original music written and recorded independently.

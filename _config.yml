@@ -1,9 +1,9 @@
 title: Chris Parkinson
 description: Code / Move / Play
-theme: midnight
+theme: minima
 
 header_pages:
   - index.md
   - code.md
   - move.md
-  - play.md
+  - listen.md
